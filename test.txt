@@ -2,3 +2,12 @@ this is first line test
 Hello. I am Yana.
 
 
+function1
+{
+}
+
+
+
+function3
+{
+}
